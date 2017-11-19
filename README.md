@@ -89,3 +89,6 @@ npm run dev
 ## Test
 localhost:8080
 
+## Testnet Deployment
+https://remix.ethereum.org/
+
