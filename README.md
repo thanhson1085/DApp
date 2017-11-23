@@ -41,9 +41,11 @@ $ brew install git
 
 ### Linux (Debian/Ubuntu)
 Install NodeJs:
+```
 $ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 $ apt-get install -y nodejs
 $ npm install -g npm@latest
+```
 
 
 Install Git:
